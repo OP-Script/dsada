@@ -1,8 +1,8 @@
 local Player = game.Players.LocalPlayer
 
-local Wt = {12214781, 12515414}
+local tt = {12214781, 12515414}
 
-for i, v in pairs(Wt) do
+for i, v in pairs(tt) do
     if Player.UserId == v then
         local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
     
