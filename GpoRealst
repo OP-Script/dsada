@@ -1,6 +1,6 @@
 local Player = game.Players.LocalPlayer
 
-local tt = {12214781, 12515414}
+local tt = {12182694, 12515414}
 
 for i, v in pairs(tt) do
     if Player.UserId == v then
